@@ -24,9 +24,7 @@ Le fichier [`lettre_motivation.py`](lettre_motivation.py) décrit :
 
 ## 📬 Me contacter
 
-📧 naomie.reconversion@exemple.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/TON-LIEN-SI-TU-EN-AS-UN)
-
+📧 prevost.naomie@gmail.com 
 ---
 
 Merci de votre attention 🙏  
